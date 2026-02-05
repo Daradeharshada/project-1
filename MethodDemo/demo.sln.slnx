@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/utilities/">
+    <Project Path="utilities/Utilities.csproj" />
+  </Folder>
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+</Solution>
