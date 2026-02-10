@@ -1,0 +1,7 @@
+C:\Users\harsh\source\repos\day 2 Assignment\day 2 Assignment\bin\Debug\day 2 Assignment.exe.config
+C:\Users\harsh\source\repos\day 2 Assignment\day 2 Assignment\bin\Debug\day 2 Assignment.exe
+C:\Users\harsh\source\repos\day 2 Assignment\day 2 Assignment\bin\Debug\day 2 Assignment.pdb
+C:\Users\harsh\source\repos\day 2 Assignment\day 2 Assignment\obj\Debug\day 2 Assignment.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\day 2 Assignment\day 2 Assignment\obj\Debug\day 2 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\day 2 Assignment\day 2 Assignment\obj\Debug\day 2 Assignment.exe
+C:\Users\harsh\source\repos\day 2 Assignment\day 2 Assignment\obj\Debug\day 2 Assignment.pdb
